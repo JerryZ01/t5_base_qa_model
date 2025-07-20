@@ -6,6 +6,12 @@
 - 混合精度训练（batch_size=1，学习率5e-5）
 - 支持BLEU、精确匹配率（90%）等多维度评估
 - 预测结果可视化与模型信息保存
+## 数据集
+数据集:链接:https://pan.quark.cn/s/6d4a98cd65f2 提取码:bzne
+
+## 模型介绍
+Mengzi-T5-base是一个基于Transformer的预训练模型。它在大规模文本数据上进行了预训练，具有强大的文本理解和生成能力。
+预训练模型地址:https://modelscope.cn/models/langboat/mengzi-t5-base
 
 ## 环境依赖
 ```bash
